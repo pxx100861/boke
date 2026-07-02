@@ -1,0 +1,12 @@
+baseURL = "https://pxx100861.github.io/boke/"
+languageCode = "zh-cn"
+title = "我的博客"
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  description = "个人博客"
+
+[taxonomies]
+  tag = "tags"
+  author = "authors"
